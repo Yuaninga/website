@@ -26,7 +26,7 @@ Kubernetes 使用容器运行时来实现在 pod 中运行容器。
 这是各种运行时的安装说明。
 
 <!-- body -->
-
+啊实打实
 <!--
 A flaw was found in the way runc handled system file descriptors when running containers.
 A malicious container could use this flaw to overwrite contents of the runc binary and
